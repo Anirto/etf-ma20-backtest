@@ -1,0 +1,103 @@
+{
+  "strategy": "ETF MA20 仓位管理",
+  "period": "20240101-20260501",
+  "initial_capital": 1000000,
+  "results": [
+    {
+      "code": "510050",
+      "name": "上证50ETF",
+      "total_return_pct": 22.52,
+      "annual_return_pct": 9.44,
+      "max_drawdown_pct": -8.6,
+      "win_rate_pct": 99.68,
+      "sharpe_ratio": 1.07,
+      "calmar_ratio": 1.1,
+      "total_trades": 533,
+      "final_value": 1225230.07
+    },
+    {
+      "code": "510300",
+      "name": "沪深300ETF",
+      "total_return_pct": 26.05,
+      "annual_return_pct": 10.83,
+      "max_drawdown_pct": -8.68,
+      "win_rate_pct": 98.28,
+      "sharpe_ratio": 1.06,
+      "calmar_ratio": 1.25,
+      "total_trades": 520,
+      "final_value": 1260489.29
+    },
+    {
+      "code": "510500",
+      "name": "中证500ETF",
+      "total_return_pct": 19.22,
+      "annual_return_pct": 8.12,
+      "max_drawdown_pct": -15.04,
+      "win_rate_pct": 98.16,
+      "sharpe_ratio": 0.6,
+      "calmar_ratio": 0.54,
+      "total_trades": 483,
+      "final_value": 1192194.74
+    },
+    {
+      "code": "159915",
+      "name": "创业板ETF",
+      "total_return_pct": 42.02,
+      "annual_return_pct": 16.85,
+      "max_drawdown_pct": -19.19,
+      "win_rate_pct": 99.62,
+      "sharpe_ratio": 1.0,
+      "calmar_ratio": 0.88,
+      "total_trades": 502,
+      "final_value": 1420155.58
+    },
+    {
+      "code": "588000",
+      "name": "科创50ETF",
+      "total_return_pct": 32.47,
+      "annual_return_pct": 13.3,
+      "max_drawdown_pct": -14.87,
+      "win_rate_pct": 100.0,
+      "sharpe_ratio": 0.8,
+      "calmar_ratio": 0.89,
+      "total_trades": 510,
+      "final_value": 1324662.01
+    },
+    {
+      "code": "510880",
+      "name": "红利ETF",
+      "total_return_pct": 16.18,
+      "annual_return_pct": 6.88,
+      "max_drawdown_pct": -11.1,
+      "win_rate_pct": 100.0,
+      "sharpe_ratio": 0.88,
+      "calmar_ratio": 0.62,
+      "total_trades": 515,
+      "final_value": 1161773.99
+    },
+    {
+      "code": "512880",
+      "name": "证券ETF",
+      "total_return_pct": -9.58,
+      "annual_return_pct": -4.37,
+      "max_drawdown_pct": -19.45,
+      "win_rate_pct": 99.59,
+      "sharpe_ratio": -0.22,
+      "calmar_ratio": -0.22,
+      "total_trades": 498,
+      "final_value": 904189.75
+    },
+    {
+      "code": "512660",
+      "name": "军工ETF",
+      "total_return_pct": 31.95,
+      "annual_return_pct": 13.1,
+      "max_drawdown_pct": -12.9,
+      "win_rate_pct": 99.28,
+      "sharpe_ratio": 0.85,
+      "calmar_ratio": 1.02,
+      "total_trades": 523,
+      "final_value": 1319463.79
+    }
+  ]
+}
